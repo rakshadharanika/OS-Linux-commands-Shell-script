@@ -1,7 +1,10 @@
-# OS-Linux-commands-Shell-scripting
+# 1.OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
+### NAME   : V RAKSHA DHARANIKA
+### REF NO : 212223230167
+### DEP    : AIDS
 
 # AIM:
 To practice Linux Commands and Shell Scripting
